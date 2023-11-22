@@ -1,0 +1,301 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/16 HTTP/1.1" 200 6644
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/16 HTTP/1.1" 200 6644
+INFO:root:Check Hamas..
+INFO:root:Check Gazastreifen..
+INFO:root:Check Israel..
+INFO:root:Check Gaza..
+INFO:root:Check Israels..
+INFO:root:Check israelischen..
+WARNING:root:israelischen is free
+INFO:root:Check israelische..
+INFO:root:Check Geiseln..
+INFO:root:Check Seipel..
+INFO:root:Check Gazastreifens..
+WARNING:root:Gazastreifens is free
+INFO:root:Check Palästinenser..
+INFO:root:Check Gaza-Krieg..
+WARNING:root:Gaza-Krieg is free
+INFO:root:Check Antisemitismus..
+INFO:root:Check Hubert Seipel..
+INFO:root:Check Terrororganisation..
+INFO:root:Check Rafah..
+INFO:root:Check Gaza-Stadt..
+INFO:root:Check Pistorius..
+INFO:root:Check Al-Schifa-Krankenhaus..
+WARNING:root:Al-Schifa-Krankenhaus is free
+INFO:root:Check Hamas-Terroristen..
+WARNING:root:Hamas-Terroristen is free
+INFO:root:Check 2024..
+INFO:root:Check GDL..
+INFO:root:Check November..
+INFO:root:Check Adventmarkt..
+INFO:root:Check Lokführergewerkschaft..
+WARNING:root:Lokführergewerkschaft is free
+INFO:root:Check Streiks..
+INFO:root:Check Babygalerie..
+INFO:root:Check Weselsky..
+INFO:root:Check Streikbeschluss..
+WARNING:root:Streikbeschluss is free
+INFO:root:Check Bezahlkarte..
+INFO:root:Check Lokomotivführer..
+INFO:root:Check 2023..
+INFO:root:Check Gewerkschaft..
+INFO:root:Check Streik..
+INFO:root:Check EM 2024..
+INFO:root:Check Gewerkschaft Deutscher Lokomotivführer..
+INFO:root:Check Verkaufsphase..
+WARNING:root:Verkaufsphase is free
+INFO:root:Check Claus Weselsky..
+INFO:root:Check Martin Seiler..
+INFO:root:Check gestreikt..
+INFO:root:Check Wagenknecht..
+INFO:root:Check Sahra..
+INFO:root:Check Linksfraktion..
+INFO:root:Check Sahra Wagenknecht..
+INFO:root:Check Fraktion..
+INFO:root:Check Bartsch..
+INFO:root:Check Fraktionsstatus..
+WARNING:root:Fraktionsstatus is free
+INFO:root:Check Liquidation..
+INFO:root:Check Dietmar Bartsch..
+INFO:root:Check Mio..
+INFO:root:Check Hot Chip..
+INFO:root:Check Kernnetz..
+INFO:root:Check AT&S..
+INFO:root:Check Gößmann..
+INFO:root:Check Quartalen..
+WARNING:root:Quartalen is free
+INFO:root:Check FNB..
+INFO:root:Check Kirchenbindung..
+WARNING:root:Kirchenbindung is free
+INFO:root:Check Tagesgeld..
+INFO:root:Check Kerninflation..
+INFO:root:Check Thunberg..
+INFO:root:Check Greta..
+INFO:root:Check Klimademonstration..
+WARNING:root:Klimademonstration is free
+INFO:root:Check Palästinensertuch..
+INFO:root:Check Thunbergs..
+WARNING:root:Thunbergs is free
+INFO:root:Check Dam..
+INFO:root:Check Sammelklage..
+INFO:root:Check Vodafone..
+INFO:root:Check vzbv..
+INFO:root:Check Klageregister..
+INFO:root:Check Cameron..
+INFO:root:Check Klaas..
+INFO:root:Check Joko..
+INFO:root:Check Schatzsuche..
+INFO:root:Check Klaas Heufer-Umlauf..
+INFO:root:Check Heufer-Umlauf..
+WARNING:root:Heufer-Umlauf is free
+INFO:root:Check Adventskalender..
+INFO:root:Check Farage..
+INFO:root:Check Amira..
+INFO:root:Check KI..
+INFO:root:Check El Ghazi..
+INFO:root:Check Willem-Alexander..
+WARNING:root:Willem-Alexander is free
+INFO:root:Check Ghazi..
+INFO:root:Check Starfield..
+INFO:root:Check Siemens Energy..
+INFO:root:Check Backup..
+INFO:root:Check Siemens..
+INFO:root:Check Yasemin..
+INFO:root:Check Nigel Farage..
+INFO:root:Check Bürgschaft..
+INFO:root:Check SJ..
+INFO:root:Check Baldur's..
+INFO:root:Check LeBlanc..
+INFO:root:Check Baldur's Gate..
+INFO:root:Check Kelce..
+WARNING:root:Kelce is free
+INFO:root:Check Waldbachschule..
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/16 HTTP/1.1" 200 6644
+INFO:root:Check Hamas..
+INFO:root:Check Gazastreifen..
+INFO:root:Check Israel..
+INFO:root:Check Gaza..
+INFO:root:Check Israels..
+INFO:root:Check israelischen..
+WARNING:root:israelischen is free
+INFO:root:Check israelische..
+INFO:root:Check Geiseln..
+INFO:root:Check Seipel..
+INFO:root:Check Gazastreifens..
+WARNING:root:Gazastreifens is free
+INFO:root:Check Palästinenser..
+INFO:root:Check Gaza-Krieg..
+WARNING:root:Gaza-Krieg is free
+INFO:root:Check Antisemitismus..
+INFO:root:Check Hubert Seipel..
+INFO:root:Check Terrororganisation..
+INFO:root:Check Rafah..
+INFO:root:Check Gaza-Stadt..
+INFO:root:Check Pistorius..
+INFO:root:Check Al-Schifa-Krankenhaus..
+WARNING:root:Al-Schifa-Krankenhaus is free
+INFO:root:Check Hamas-Terroristen..
+WARNING:root:Hamas-Terroristen is free
+INFO:root:Check 2024..
+INFO:root:Check GDL..
+INFO:root:Check November..
+INFO:root:Check Adventmarkt..
+INFO:root:Check Lokführergewerkschaft..
+WARNING:root:Lokführergewerkschaft is free
+INFO:root:Check Streiks..
+INFO:root:Check Babygalerie..
+INFO:root:Check Weselsky..
+INFO:root:Check Streikbeschluss..
+WARNING:root:Streikbeschluss is free
+INFO:root:Check Bezahlkarte..
+INFO:root:Check Lokomotivführer..
+INFO:root:Check 2023..
+INFO:root:Check Gewerkschaft..
+INFO:root:Check Streik..
+INFO:root:Check EM 2024..
+INFO:root:Check Gewerkschaft Deutscher Lokomotivführer..
+INFO:root:Check Verkaufsphase..
+WARNING:root:Verkaufsphase is free
+INFO:root:Check Claus Weselsky..
+INFO:root:Check Martin Seiler..
+INFO:root:Check gestreikt..
+INFO:root:Check Wagenknecht..
+INFO:root:Check Sahra..
+INFO:root:Check Linksfraktion..
+INFO:root:Check Sahra Wagenknecht..
+INFO:root:Check Fraktion..
+INFO:root:Check Bartsch..
+INFO:root:Check Fraktionsstatus..
+WARNING:root:Fraktionsstatus is free
+INFO:root:Check Liquidation..
+INFO:root:Check Dietmar Bartsch..
+INFO:root:Check Mio..
+INFO:root:Check Hot Chip..
+INFO:root:Check Kernnetz..
+INFO:root:Check AT&S..
+INFO:root:Check Gößmann..
+INFO:root:Check Quartalen..
+WARNING:root:Quartalen is free
+INFO:root:Check FNB..
+INFO:root:Check Kirchenbindung..
+WARNING:root:Kirchenbindung is free
+INFO:root:Check Tagesgeld..
+INFO:root:Check Kerninflation..
+INFO:root:Check Thunberg..
+INFO:root:Check Greta..
+INFO:root:Check Klimademonstration..
+WARNING:root:Klimademonstration is free
+INFO:root:Check Palästinensertuch..
+INFO:root:Check Thunbergs..
+WARNING:root:Thunbergs is free
+INFO:root:Check Dam..
+INFO:root:Check Sammelklage..
+INFO:root:Check Vodafone..
+INFO:root:Check vzbv..
+INFO:root:Check Klageregister..
+INFO:root:Check Cameron..
+INFO:root:Check Klaas..
+INFO:root:Check Joko..
+INFO:root:Check Schatzsuche..
+INFO:root:Check Klaas Heufer-Umlauf..
+INFO:root:Check Heufer-Umlauf..
+WARNING:root:Heufer-Umlauf is free
+INFO:root:Check Adventskalender..
+INFO:root:Check Farage..
+INFO:root:Check Amira..
+INFO:root:Check KI..
+INFO:root:Check El Ghazi..
+INFO:root:Check Willem-Alexander..
+WARNING:root:Willem-Alexander is free
+INFO:root:Check Ghazi..
+INFO:root:Check Starfield..
+INFO:root:Check Siemens Energy..
+INFO:root:Check Backup..
+INFO:root:Check Siemens..
+INFO:root:Check Yasemin..
+INFO:root:Check Nigel Farage..
+INFO:root:Check Bürgschaft..
+INFO:root:Check SJ..
+INFO:root:Check Baldur's..
+INFO:root:Check LeBlanc..
+INFO:root:Check Baldur's Gate..
+INFO:root:Check Kelce..
+WARNING:root:Kelce is free
+INFO:root:Check Waldbachschule..
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/22 HTTP/1.1" 200 2357
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+WARNING:root:is free
+INFO:root:Words saved at 22.09.2023, 16:09:53
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+INFO:root:Words saved at 22.10.2023, 16:10:39
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+INFO:root:Words saved at 22.11.2023, 16:11:36
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+INFO:root:Words saved at 22.49.2023, 16:49:35
+INFO:root:Email sent at 22.58.2023, 16:58:58
+INFO:root:Email sent at 22.11.2023, 17:00:57
+INFO:root:Email sent at 22.11.2023, 17:01:33
+INFO:root:Email sent at 22.11.2023, 17:10:25
+INFO:root:Email sent at 22.11.2023, 17:11:54
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
+INFO:root:Words saved at 22.11.2023, 17:12:06
+INFO:root:Email sent at 22.11.2023, 17:12:17
