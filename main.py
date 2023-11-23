@@ -81,8 +81,8 @@ if __name__ == "__main__":
         if save_word_of_the_days(year, month, day):
             check_file(f"{year}_{month}_{day}")
             send_mail(f"{year}_{month}_{day}")
-            time.sleep(12 * 60 * 60) # 12 hours
             logging.info(f'Sleep for 12 hours - {datetime.now().strftime("%d.%m.%Y, %H:%M:%S")}')
+            time.sleep(12 * 60 * 60) # 12 hours
 
-        time.sleep(10 * 60) # 10 minutes
         logging.info(f'Try again in 5 Minutes - {datetime.now().strftime("%d.%m.%Y, %H:%M:%S")}')
+        time.sleep(10 * 60) # 10 minutes
