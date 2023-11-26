@@ -299,3 +299,14 @@ DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-
 DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/21 HTTP/1.1" 200 6889
 INFO:root:Words saved at 22.11.2023, 17:12:06
 INFO:root:Email sent at 22.11.2023, 17:12:17
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/25 HTTP/1.1" 200 6541
+INFO:root:Words saved - 26.11.2023, 11:56:53
+INFO:root:Email sent - 26.11.2023, 11:57:01
+INFO:root:Sleep for 12 hours - 26.11.2023, 11:57:01
+INFO:root:Try again in 10 Minutes - 26.11.2023, 11:59:17
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): wod.corpora.uni-leipzig.de:443
+DEBUG:urllib3.connectionpool:https://wod.corpora.uni-leipzig.de:443 "GET /de/de/2023/11/25 HTTP/1.1" 200 6541
+INFO:root:Words saved - 26.11.2023, 11:59:33
+INFO:root:Email sent - 26.11.2023, 11:59:41
+INFO:root:Sleep for 12 hours - 26.11.2023, 11:59:41

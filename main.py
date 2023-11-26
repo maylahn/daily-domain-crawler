@@ -25,6 +25,9 @@ def check_file(filename):
 
 def save_word_of_the_days(year, month, day):
     words = []
+    if os.path.exists(f"{year}_{month}_{day}.txt"):
+        return False
+    
     response = requests.get(f"https://wod.corpora.uni-leipzig.de/de/de/{year}/{month}/{day}")
     if response.status_code == 200:
         parsed = BeautifulSoup(response.text, 'html.parser')
@@ -71,18 +74,16 @@ def send_mail(filename):
 if __name__ == "__main__":
     logging.basicConfig(filename='crawler.log', encoding='utf-8', level=logging.DEBUG)
 
-    day = datetime.now().day -1
-    month = datetime.now().month
-    year = datetime.now().year
-
-    last_check = time.time()
-
     while True:
+        day = datetime.now().day -1
+        month = datetime.now().month
+        year = datetime.now().year
+
         if save_word_of_the_days(year, month, day):
             check_file(f"{year}_{month}_{day}")
             send_mail(f"{year}_{month}_{day}")
             logging.info(f'Sleep for 12 hours - {datetime.now().strftime("%d.%m.%Y, %H:%M:%S")}')
-            time.sleep(12 * 60 * 60) # 12 hours
+            time.sleep(12 * 60 * 60)
 
-        logging.info(f'Try again in 5 Minutes - {datetime.now().strftime("%d.%m.%Y, %H:%M:%S")}')
-        time.sleep(10 * 60) # 10 minutes
+        logging.info(f'Try again in 10 Minutes - {datetime.now().strftime("%d.%m.%Y, %H:%M:%S")}')
+        time.sleep(10 * 60)
