@@ -75,10 +75,11 @@ if __name__ == "__main__":
     logging.basicConfig(filename='crawler.log', encoding='utf-8', level=logging.DEBUG)
 
     while True:
-        day = datetime.now().day -1
+        day = f"{(datetime.now().day-1):02d}"
         month = datetime.now().month
         year = datetime.now().year
 
+        print(day)
         if save_word_of_the_days(year, month, day):
             check_file(f"{year}_{month}_{day}")
             send_mail(f"{year}_{month}_{day}")
